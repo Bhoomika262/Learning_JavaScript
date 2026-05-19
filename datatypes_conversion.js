@@ -59,7 +59,3 @@ n1=n2=n3=4
 let g=100
 g++;
 console.log(g)
-
-let h=100
-++h;
-console.log(h)
