@@ -14,8 +14,9 @@ const navbar=({company})=>{
 }
 navbar(company="Bhoomika")
 
-{
-    name:"Bhoomika",
-    course:"JS",
-    price:"Free"
-}
+//this is JSON, so the key is also a string
+// {
+//     "name":"Bhoomika",
+//     "course":"JS",
+//     "price":"Free"
+// }
